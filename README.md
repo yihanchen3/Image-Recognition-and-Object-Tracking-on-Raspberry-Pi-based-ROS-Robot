@@ -1,4 +1,4 @@
-# Object Tracking Control on Ackermann Steering Car in ROS
+# Ackermann Steering Car Development in ROS
 
 This repository contains the code for an autonomous vehicle control built using ROS (Robot Operating System) and OpenCV on a Raspberry Pi-based Ackermann steering car. The system is designed to recognize objects, track them, and control the vehicle's movement based on marker detection and color tracking.
 
